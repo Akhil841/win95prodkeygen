@@ -18,5 +18,5 @@ To generate a CD key, use
 To generate an OEM key, use
 `KeyGenerator.oem_key.gen()`
 
-These keys should also work for Office 95.\\
+These keys should also work for Office 95.
 **I, Akhil841, do not condone piracy. Use at your own risk. This is for educational and informative purposes only.**
